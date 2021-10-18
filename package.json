@@ -1,10 +1,17 @@
 {
-    "name": "python-dark",
-    "displayName": "Python Dark",
-    "description": "",
-    "version": "0.0.1",
+    "name": "python-one-dark",
+    "displayName": "Python One Dark",
+    "description": "An Awesome VS Code theme for Python.",
+    "publisher": "BimalTimilsina",
+    "icon": "./images/python-one-dark.png",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.57.0"
+    },
+    "homepage": "https://bimaltimilsina.com.np",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/timilsinabimal/"
     },
     "categories": [
         "Themes"
@@ -12,7 +19,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Bimal",
+                "label": "Python One Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Bimal-color-theme.json"
             }

@@ -1,13 +1,16 @@
-# README
-## This is the README for your extension "python-dark"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Python-Dark
+This theme works best only in python. I made this theme for my personal use, but anyone can use it.
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+## Preview
+![Code Syntax in Python](images/burring.png)
+![Code Syntax in Python](images/nst.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Find me
+Check out my other projects at:
+[Portfolio Website](https://bimaltimilsina.com.np) |
+[GitHub](https://github.com/TimilsinaBimal/)
+## Updates
+
+You may get updates, but not guaranteed!
 
 **Enjoy!**
